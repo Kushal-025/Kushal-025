@@ -57,5 +57,5 @@ I'm always open to talking about web engineering, design systems, or collaborati
 💼 LinkedIn: Kushal Banerjee (https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BVbVcYOggQMu0COKpZb8FiQ%3D%3D)
 🌐 Portfolio: kushal.dev (https://my-site-umber-phi.vercel.app/)
 📧 Email: 
-kushalbanerjee025@email.com
+kushalbanerjee025@gmail.com
 

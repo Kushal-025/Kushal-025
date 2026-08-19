@@ -55,8 +55,7 @@ GitHub Streak
 I'm always open to talking about web engineering, design systems, or collaboration opportunities.
 
 💼 LinkedIn: Kushal Banerjee (Update with your actual LinkedIn link)
-🌐 Portfolio: kushal.dev (Update with your actual portfolio or site link)
+🌐 Portfolio: kushal.dev ()
 📧 Email: 
 kushal.banerjee@email.com
- (Update with your actual email)
-"Simplicity is the soul of efficiency." — Austin Freeman
+

@@ -2,16 +2,17 @@
 
   <!-- Animated Typing Banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=30&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Kushal+Banerjee!+%F0%9F%90%8B;Full+Stack+Web+Developer;React.js+%7C+Next.js+%7C+Tailwind+CSS+v4;Node.js+%7C+Express+%7C+MySQL+%7C+MongoDB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=30&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Kushal+Banerjee!+%F0%9F%90%8B;Full+Stack+Web+Developer;React.js+%7C+Next.js+%7C+Tailwind+CSS+v4;Node.js+%7C+Express+%7C+MySQL+%7C+MongoDB" alt="Typing Banner" />
   </a>
 
   <p align="center">
     <b>Full Stack Web Developer</b> passionate about building responsive, highly interactive, and scalable web applications.
   </p>
 
-  <!-- Visitor Badge & Social Badges -->
+  <!-- Live Stats Badges & Contacts -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Kushal-025&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/Kushal-025?style=for-the-badge&logo=github&color=6366f1" alt="GitHub Followers" />
     <a href="mailto:kushalbanerjee025@gmail.com">
       <img src="https://img.shields.io/badge/Email-kushalbanerjee025%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
@@ -26,9 +27,9 @@
 
 ### 🚀 About Me
 
-- 💻 **Frontend Focus**: Crafting fluid, animation-rich layouts using Next.js, React, and Tailwind CSS.
-- ⚙️ **Backend & Database**: Building reliable REST APIs with Node.js / Express and database structures with MySQL & MongoDB.
-- 🧠 **Problem Solving**: DSA enthusiast, constantly honing logical problem-solving skills.
+- 💻 **Frontend Focus**: Crafting fluid, animation-rich layouts using Next.js, React, and Tailwind CSS v4.
+- ⚙️ **Backend & Database**: Building reliable APIs with Node.js / Express and designing database structures with MySQL & MongoDB.
+- 🧠 **Problem Solving**: DSA enthusiast, constantly writing optimized code.
 - ⚡ **Open to Opportunities**: Ready for full-time roles, client projects, and collaborative open-source contributions.
 
 ---
@@ -47,17 +48,16 @@
 
 ---
 
-### 📊 GitHub Stats & Contributions
+### 📊 GitHub Activity Streak & Commit Graph
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kushal-025&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Kushal's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushal-025&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img width="90%" src="https://streak-stats.demolab.com/?user=Kushal-025&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushal-025&theme=tokyonight" alt="GitHub Streak" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kushal-025&theme=react-dark&radius=10" alt="GitHub Activity Graph" />
 </div>
 
 ---

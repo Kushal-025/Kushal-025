@@ -39,7 +39,7 @@
 
 ## 👨‍💻 &nbsp; About Me
 
-javascript
+```javascript
 const kushal = {
   role       : "Full Stack Developer",
   location   : "Ranchi, Jharkhand, India 🇮🇳",
@@ -57,7 +57,7 @@ const kushal = {
   openTo     : "Frontend | Full Stack | Junior Engineer roles",
   funFact    : "I'm a fresher who moves at a not-so-fresher pace ⚡"
 };
-
+```
 
 <br/>
 

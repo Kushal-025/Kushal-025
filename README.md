@@ -39,6 +39,16 @@
 
 ## 👨‍💻 &nbsp; About Me
 
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=818CF8&width=700&height=140&lines=Full+Stack+Developer+building+scalable+web+apps;Hands-on+with+React%2C+Node.js%2C+Express+%26+MongoDB;Delivered+3%2B+live+production+projects+for+clients;Graduated+B.Sc.+IT+from+Ranchi+University+(2025);Actively+seeking+Frontend+%26+Full+Stack+roles!" alt="About Me Typing SVG" />
+</div>
+
+Hi, I'm **Kushal Banerjee**, a **Full Stack Developer** from Ranchi, India. I focus on building fast, accessible web applications and clean REST APIs. 
+
+* 💼 **Experience:** Web Dev Intern at CITC & ML Intern at E-MAX India (Grade A+).
+* 🚀 **Projects:** Delivered live, client-facing websites with active user bases.
+* 🟢 **Status:** Open to Frontend, Full Stack, and Junior Engineer roles.
+
 ```javascript
 const kushal = {
   role       : "Full Stack Developer",

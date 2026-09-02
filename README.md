@@ -39,7 +39,7 @@
 
 ## 👨‍💻 &nbsp; About Me
 
-```js
+js
 const kushal = {
   role       : "Full Stack Developer",
   location   : "Ranchi, Jharkhand, India 🇮🇳",
